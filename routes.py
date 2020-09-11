@@ -13,7 +13,7 @@ app.config["MAIL_SERVER"] = "smtp.gmail.com"
 app.config["MAIL_PORT"] = 465
 app.config["MAIL_USE_SSL"] = True
 app.config["MAIL_USERNAME"] = 'milestone2020.projects@gmail.com'
-app.config["MAIL_PASSWORD"] = 'Milestone-2020'
+app.config["MAIL_PASSWORD"] = '****'
 
 mail.init_app(app)
 
